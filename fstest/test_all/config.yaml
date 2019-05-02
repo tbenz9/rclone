@@ -143,3 +143,7 @@ backends:
    remote:   "TestKoofr:"
    subdir:   false
    fastlist: false
+ - backend:  "sia"
+   remote:   "TestSia:"
+   subdir:   false
+   fastlist: false

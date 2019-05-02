@@ -250,3 +250,4 @@ Contributors
   * xopez <28950736+xopez@users.noreply.github.com>
   * Ben Boeckel <mathstuf@gmail.com>
   * Manu <manu@snapdragon.cc>
+  * Thomas Bennett <tbenz9@gmail.com>

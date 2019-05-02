@@ -47,6 +47,7 @@ Rclone is a command line program to sync files and directories to and from:
 * {{< provider name="Rackspace Cloud Files" home="https://www.rackspace.com/cloud/files" config="/swift/" >}}
 * {{< provider name="Scaleway" home="https://www.scaleway.com/object-storage/" config="/s3/#scaleway" >}}
 * {{< provider name="SFTP" home="https://en.wikipedia.org/wiki/SFTP" config="/sftp/" >}}
+* {{< provider name="Sia" home="https://sia.tech/" config="/sia/" >}}
 * {{< provider name="Wasabi" home="https://wasabi.com/" config="/s3/#wasabi" >}}
 * {{< provider name="WebDAV" home="https://en.wikipedia.org/wiki/WebDAV" config="/webdav/" >}}
 * {{< provider name="Yandex Disk" home="https://disk.yandex.com/" config="/yandex/" >}}

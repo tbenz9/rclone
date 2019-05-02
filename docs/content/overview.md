@@ -2,7 +2,7 @@
 title: "Overview of cloud storage systems"
 description: "Overview of cloud storage systems"
 type: page
-date: "2019-02-25"
+date: "2019-05-02"
 ---
 
 # Overview of cloud storage systems #
@@ -37,6 +37,7 @@ Here is an overview of the major features of each cloud storage system.
 | pCloud                       | MD5, SHA1   | Yes     | No               | No              | W         |
 | QingStor                     | MD5         | No      | No               | No              | R/W       |
 | SFTP                         | MD5, SHA1 ‡ | Yes     | Depends          | No              | -         |
+| Sia                          | SHA1        | Yes     | No               | No              | -         |
 | WebDAV                       | MD5, SHA1 ††| Yes ††† | Depends          | No              | -         |
 | Yandex Disk                  | MD5         | Yes     | No               | No              | R/W       |
 | The local filesystem         | All         | Yes     | Depends          | No              | -         |

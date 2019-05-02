@@ -1,7 +1,7 @@
 ---
 title: "Documentation"
 description: "Rclone Usage"
-date: "2019-02-25"
+date: "2019-05-02"
 ---
 
 Configure
@@ -43,6 +43,7 @@ See the following for detailed instructions for
   * [Pcloud](/pcloud/)
   * [QingStor](/qingstor/)
   * [SFTP](/sftp/)
+  * [Sia](/sia/)
   * [Union](/union/)
   * [WebDAV](/webdav/)
   * [Yandex Disk](/yandex/)

@@ -46,6 +46,7 @@ require (
 	github.com/t3rm1n4l/go-mega v0.0.0-20190205172012-55a226cf41da
 	github.com/xanzy/ssh-agent v0.2.0
 	github.com/yunify/qingstor-sdk-go v2.2.15+incompatible
+	gitlab.com/NebulousLabs/Sia v1.4.0
 	go.etcd.io/bbolt v1.3.2 // indirect
 	golang.org/x/crypto v0.0.0-20190208162236-193df9c0f06f
 	golang.org/x/net v0.0.0-20190206173232-65e2d4e15006
